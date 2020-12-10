@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/fonts/ProximaNova/stylesheet.css" line="138" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5d70a3-5f2f-47bf-99a7-9a05690a5d92" name="Default Changelist" comment="" />
+    <list default="true" id="3e5d70a3-5f2f-47bf-99a7-9a05690a5d92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="979" column="77" selection-start-line="979" selection-start-column="77" selection-end-line="979" selection-end-column="77" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
@@ -50,11 +52,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/media.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="874" column="17" selection-start-line="874" selection-start-column="17" selection-end-line="874" selection-end-column="17" />
+            <state relative-caret-position="320">
+              <caret line="880" column="5" lean-forward="true" selection-start-line="880" selection-start-column="5" selection-end-line="880" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -85,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fonts/ProximaNova/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="139" column="31" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="31" />
+            <state relative-caret-position="280">
+              <caret line="351" column="23" lean-forward="true" selection-start-line="351" selection-start-column="23" selection-end-line="351" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -100,10 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header1__inner-block1-logo-image</find>
-      <find>vert</find>
-      <find>display: fle</find>
-      <find>.index-service1_list1</find>
       <find>ремонт жил</find>
       <find>yande</find>
       <find>index-map1</find>
@@ -130,6 +128,10 @@
       <find>jquey</find>
       <find>.header1__inner-bar-menu</find>
       <find>ProximaNova-ThinIt</find>
+      <find>proxima_thin_italic</find>
+      <find>italic</find>
+      <find>499</find>
+      <find>москв</find>
     </findStrings>
     <replaceStrings>
       <replace>0c0c0c</replace>
@@ -146,9 +148,9 @@
         <option value="$PROJECT_DIR$/images/index-map-logo1.svg" />
         <option value="$PROJECT_DIR$/../kindermag.loc/web/js/script.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/media.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -253,18 +255,18 @@
       <workItem from="1607504416426" duration="3480000" />
       <workItem from="1607515400206" duration="2816000" />
       <workItem from="1607519386294" duration="4939000" />
-      <workItem from="1607580575104" duration="4970000" />
+      <workItem from="1607580575104" duration="5773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50816000" />
+    <option name="totallyTimeSpent" value="51619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,7 +279,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -377,18 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -403,17 +393,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/ProximaNova/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="139" column="31" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="31" />
+        <state relative-caret-position="320">
+          <caret line="880" column="5" lean-forward="true" selection-start-line="880" selection-start-column="5" selection-end-line="880" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/media.css">
+    <entry file="file://$PROJECT_DIR$/fonts/ProximaNova/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="874" column="17" selection-start-line="874" selection-start-column="17" selection-end-line="874" selection-end-column="17" />
+        <state relative-caret-position="280">
+          <caret line="351" column="23" lean-forward="true" selection-start-line="351" selection-start-column="23" selection-end-line="351" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="979" column="77" selection-start-line="979" selection-start-column="77" selection-end-line="979" selection-end-column="77" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
